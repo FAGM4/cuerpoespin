@@ -1,0 +1,324 @@
+.Cuerpoespin {
+  position: relative;
+        width: 300px;
+        height: 220px;
+        background-color: #9e4823d8;
+        border-radius: 5000px 5000px 5000px 3500px;
+        margin: 50px auto 0;
+        top: 150px;
+        box-shadow: inset -10px 0 8px rgba(0, 0, 0, 0.4);
+}
+
+.Cabeza {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  background-color: #fbd4cb;
+  border-radius: 250px 250px 50px 350px;
+  top: 35px;
+  right: -1040px;
+  box-shadow: 10px 0 8px rgba(0, 0, 0, 0.4);
+}
+.ojo {
+  position: relative;
+  top: 15%;
+left: 10%;
+background: #000000;
+width: 35%;
+height: 35%;
+border-radius: 150% 150% 15% 15%;
+}
+.ojo-2 {
+  position: relative;
+  top: -20%;
+left: 55%;
+background: #000000;
+width: 35%;
+height: 35%;
+border-radius: 150% 150% 15% 15%;
+}
+.brillo-de-ojo {
+  position: relative;
+  top: -45%;
+left: 25%;
+background: #ffffff;
+width: 15%;
+height: 15%;
+border-radius: 150% 150% 15% 15%;
+}
+.brillo-de-ojo-2 {
+  position: relative;
+  top: -60%;
+left: 70%;
+background: #ffffff;
+width: 15%;
+height: 15%;
+border-radius: 150% 150% 15% 15%;
+}
+.boca{
+  position: relative;
+  top: -40%;
+left: 48%;
+background: #ed7979;
+width: 35%;
+height: 35%;
+border-radius: 15% 15% 150% 150%;
+}
+.lengua{
+  position: relative;
+  top: -55%;
+left: 50%;
+background: #ec1a1a;
+width: 15%;
+height: 15%;
+border-radius: 15% 150% 15% 150%;
+}
+.nariz{
+  position: relative;
+  top: -55%;
+left: 90%;
+background: #000000;
+width: 15%;
+height: 15%;
+border-radius: 150% 150% 150% 150%;
+}
+.orejita{
+  position: relative;
+  top: -170%;
+left: -8%;
+background: #fbd4cb;
+width: 30%;
+height: 30%;
+border-radius: 30% 30% 120% 30%;
+
+
+}
+.orejita-2 {
+  position: relative;
+  top: -205%;
+left: 70%;
+background: #fbd4cb;
+width: 30%;
+height: 30%;
+border-radius: 30% 30% 120% 30%;
+transform: rotate(85deg);
+
+}
+.cuerpo{
+  width: 300px;
+        height: 220px;
+        background-color: aquamarine;
+        border-radius: 250px 250px 150px 150px;
+        margin: 50px auto 0;
+        top: 150px;
+        
+}
+.pata-delantera {
+  position: relative;
+  top: -20%;
+left: 60%;
+background: #fbd4cb;
+width: 25%;
+height: 25%;
+border-radius: 150% 150% 15% 15%;
+}
+.pata-trasera{
+  position: relative;
+  top: -45%;
+right: -17%;
+background: #fbd4cb;
+width: 25%;
+height: 25%;
+border-radius: 150% 150% 15% 15%;
+}
+.cola {
+  position: relative;
+  top: -75%;
+left: -10%;
+background: #fbd4cb;
+width: 20%;
+height: 10%;
+border-radius: 150% 150% 150% 150%;  
+transform: rotate(-165deg);
+}
+.espinas {
+  position: relative;
+  top: -140%;
+left: 10%;
+background: #3d1207;
+width: 16%;
+height: 7%;
+border-radius: 150% 150% 150% 150%;  
+transform: rotate(-165deg);
+  
+}
+.espinas-1 {
+  position: relative;
+  top: -125%;
+left: 30%;
+background: #3d1207;
+width: 16%;
+height: 7%;
+border-radius: 150% 150% 150% 150%;  
+transform: rotate(-165deg);
+  
+}
+.espinas-2 {
+  position: relative;
+  top: -110%;
+left: 35%;
+background: #3d1207;
+width: 16%;
+height: 7%;
+border-radius: 150% 150% 150% 150%;  
+transform: rotate(-165deg);
+  
+}
+.espinas-3 {
+  position: relative;
+  top: -110%;
+left: 10%;
+background: #3d1207;
+width: 16%;
+height: 7%;
+border-radius: 150% 150% 150% 150%;  
+transform: rotate(-165deg);
+  
+}
+.espinas-4 {
+  position: relative;
+  top: -129%;
+left: 59%;
+background: #3d1207;
+width: 16%;
+height: 7%;
+border-radius: 150% 150% 150% 150%;  
+transform: rotate(-165deg);
+  
+}
+.espinas-5 {
+  position: relative;
+  top: -170%;
+left: 70%;
+background: #3d1207;
+width: 16%;
+height: 7%;
+border-radius: 150% 150% 150% 150%;  
+transform: rotate(-165deg);
+  
+}
+.espinas-6 {
+  position: relative;
+  top: -190%;
+left: 40%;
+background: #3d1207;
+width: 16%;
+height: 7%;
+border-radius: 150% 150% 150% 150%;  
+transform: rotate(-165deg);
+  
+}
+.espinas-7 {
+  position: relative;
+  top: -152%;
+left: -10%;
+background: #3d1207;
+width: 16%;
+height: 7%;
+border-radius: 150% 150% 150% 150%;  
+transform: rotate(-165deg);
+  
+}
+.espinas-8 {
+  position: relative;
+  top: -175%;
+left: -10%;
+background: #3d1207;
+width: 16%;
+height: 7%;
+border-radius: 150% 150% 150% 150%;  
+transform: rotate(-165deg);
+  
+}
+.espinas-9 {
+  position: relative;
+  top: -175%;
+left: 10%;
+background: #3d1207;
+width: 16%;
+height: 7%;
+border-radius: 150% 150% 150% 150%;  
+transform: rotate(-165deg);
+  
+}
+.espinas-10 {
+  position: relative;
+  top: -200%;
+left: 50%;
+background: #3d1207;
+width: 16%;
+height: 7%;
+border-radius: 150% 150% 150% 150%;  
+transform: rotate(-165deg);
+  
+}
+.espinas-11 {
+  position: relative;
+  top: -210%;
+left: -10%;
+background: #3d1207;
+width: 16%;
+height: 7%;
+border-radius: 150% 150% 150% 150%;  
+transform: rotate(-165deg);
+}
+.espinas-12 {
+  position: relative;
+  top: -232%;
+left: -5%;
+background: #3d1207;
+width: 16%;
+height: 7%;
+border-radius: 150% 150% 150% 150%;  
+transform: rotate(-155deg);
+}
+.espinas-13 {
+  position: relative;
+  top: -250%;
+left: 5%;
+background: #3d1207;
+width: 16%;
+height: 7%;
+border-radius: 150% 150% 150% 150%;  
+transform: rotate(-140deg);
+}
+.espinas-14 {
+  position: relative;
+  top: -265%;
+left: 25%;
+background: #3d1207;
+width: 16%;
+height: 7%;
+border-radius: 150% 150% 150% 150%;  
+transform: rotate(-140deg);
+}
+.espinas-15 {
+  position: relative;
+  top: -270%;
+left: 45%;
+background: #3d1207;
+width: 16%;
+height: 7%;
+border-radius: 150% 150% 150% 150%;  
+transform: rotate(-140deg);
+}
+.espinas-16 {
+  position: relative;
+  top: -275%;
+left: 65%;
+background: #3d1207;
+width: 16%;
+height: 7%;
+border-radius: 150% 150% 150% 150%;  
+transform: rotate(-140deg);
+}
